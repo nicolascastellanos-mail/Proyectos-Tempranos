@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg1998"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="player.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2290">Intento de Mapa's Player</title>
+  <sodipodi:namedview
+     id="namedview2000"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.7059484"
+     inkscape:cx="93.498334"
+     inkscape:cy="60.038613"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1995" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0547815"
+       id="path2024"
+       cx="13.758735"
+       cy="4.3557382"
+       rx="2.1596525"
+       ry="1.709905" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.273907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 12.845036,5.8025818 c 0,0 0.498382,0.8549524 -0.08306,1.8414362 -0.581445,0.9864837 -2.9072246,1.1180146 -4.5684956,2.564858 -1.6612711,1.446843 -1.5782076,7.168448 -1.5782076,7.168448 0,0 0.5814449,1.907201 1.9104618,0.263063 1.3290168,-1.64414 0.8306357,-5.590075 0.8306357,-5.590075 0,0 2.0765887,0.263062 1.9935257,7.036917 -0.08306,6.773855 0.166127,4.274762 0.166127,4.274762 0,0 2.408843,0.46036 1.578207,0.06576 -0.830636,-0.39459 -0.332254,-7.102678 -0.332254,-7.102678 l 1.661271,6.708088 2.159652,0.263063 -1.661271,-6.642324 0.249191,-5.261246 c 0,0 1.827397,3.025217 1.578207,5.590074 -0.249191,2.564858 3.405605,3.090983 3.073351,2.038733 -0.332254,-1.052249 -2.242716,-7.760338 -2.242716,-7.760338 0,0 -1.661271,-2.8279202 -2.82416,-2.8936857 C 13.592611,8.3016733 14.25712,5.736816 14.25712,5.736816 Z"
+       id="path2059" />
+  </g>
+  <metadata
+     id="metadata2288">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Intento de Mapa's Player</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

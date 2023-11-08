@@ -1,0 +1,12 @@
+﻿Zudoku - Hecho por Nicolás Castellanos
+
+Este programa cuenta con licencia Open Source modificada, en la cual:
+- Usted puede leer el código del programa, con fines educativos
+- Usted puede basarse en parte del código para crear nuevos programas
+- Usted no puede modificar el código entero, ni distribuirlo o venderlo
+
+Colaboración de la comunidad:
+- Añadir traducciones a otros idiomas y corregir las existentes
+- Colaborar con nuevas funciones e ideas
+
+Colaboración de la comunidad a el siguiente correo: nicosoftware2006@gmail.com

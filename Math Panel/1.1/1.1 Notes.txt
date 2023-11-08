@@ -1,0 +1,12 @@
+Esta versión tiene las siguientes características:
+Sólo puede trabajar con números racionales (por ahora)
+Puede entender signos de agrupación
+Puede resolver exponenciación
+Puede resolver radicación de cualquier base
+Puede resolver aritmética básica
+
+Esta versión ha añadido las siguientes características:
+Puede entender signos de agrupación
+
+La comunidad puede atribuir algunas de las siguientes funcionalidades:
+Soporte para formato de texto matemático
